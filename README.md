@@ -16,6 +16,17 @@ A beautiful and functional To-Do List app built with **Flutter**. This project d
 * **State Management:** Lifting State Up (StatefulWidgets & Callbacks)
 * **Architecture:** MVC Pattern (Model-View-Controller) separation
 
+## 📸 Screenshots
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b6ba6676-3abb-4c38-8f83-56a6f0137020" height="400" alt="Chat List" />
+  <img src="https://github.com/user-attachments/assets/15b84b85-0002-45ef-ac17-ecf92f8e927c" height="400" alt="Chat Screen" />
+  <img src="https://github.com/user-attachments/assets/ecf8436f-36bd-426b-bc07-a83694a034d6" height="400" alt="Status Tab" />
+  <img src="https://github.com/user-attachments/assets/fffa5728-3899-45c8-bd16-58ce90af08bc" height="400" alt="Status Tab" />
+</div>
+
+
 ## 📸 How to Run
 
 1.  Clone the repository:
